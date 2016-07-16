@@ -1,5 +1,1 @@
-var func = function() {
-	console.log( 'hi' );
-};
-
-func();
+/* Your app here */

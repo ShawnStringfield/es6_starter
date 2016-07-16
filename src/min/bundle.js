@@ -44,13 +44,8 @@
 /* 0 */
 /***/ function(module, exports) {
 
-	'use strict';
-
-	var func = function func() {
-		console.log('hi');
-	};
-
-	func();
+	/* Your app here */
+	"use strict";
 
 /***/ }
 /******/ ]);
