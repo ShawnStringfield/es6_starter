@@ -10,14 +10,13 @@
   ],
   "parserOptions": {
     "ecmaFeatures": {
-      "experimentalObjectRestSpread": true,
-      "jsx": true
+      "experimentalObjectRestSpread": true
     },
     "sourceType": "module"
   },
   "rules": {
     "no-console": 0,
-    "no-debugger": 2,
+    "indent": [2, "tab"],
     "space-in-parens": ["error", "always"],
     "indent": ["error", "tab"],
     "linebreak-style": ["error", "unix"],
