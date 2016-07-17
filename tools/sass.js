@@ -12,6 +12,6 @@ gulp.task('sass', function(){
 		.pipe($.sass().on('error', $.sass.logError))
 		.pipe($.autoprefixer({browser: ['> 1%', 'last 2 versions', 'Firefox ESR']}))
 		.pipe($.sourcemaps.write())
-		.pipe(gulp.dest('src/css'))
+		.pipe(gulp.dest('src/public/css'))
 		.pipe(browserSync.stream());
 });

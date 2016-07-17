@@ -1,4 +1,1 @@
-'use strict';
-
-var a = 'hi';
-console.log( a );
+// Modular Code Goes Here

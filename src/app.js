@@ -1,1 +1,1 @@
-/* Your app here */
+/* Your application code goes here */
